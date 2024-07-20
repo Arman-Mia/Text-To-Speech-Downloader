@@ -107,7 +107,7 @@ footer p {
 }
 
 .insta, .fb, .link {
-    height: 3vw; /* Adjusted height using viewport width units */
+    height: 5vw; /* Adjusted height using viewport width units */
 }
 
 .insta:hover, .fb:hover, .link:hover {
